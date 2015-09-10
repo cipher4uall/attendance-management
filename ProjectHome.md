@@ -1,0 +1,1 @@
+A project to manage attendance for small and middle size company.
